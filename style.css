@@ -10,8 +10,9 @@ a {
   text-decoration:none;
   border:1px solid black;
   border-radius:10px;
-  margin:5px;
+  margin:3px;
   padding:10px;
+  background:white
 }
 header img {
   width:70px;
@@ -23,7 +24,7 @@ h1 {
 h2 {
   font-size:40px;
 }
-p {
+main p {
   font-size:30px;
   border:4px dotted Cyan;
   border-radius:10px;
