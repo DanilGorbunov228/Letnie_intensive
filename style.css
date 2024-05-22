@@ -14,10 +14,6 @@ a {
   padding:10px;
   background:white
 }
-header img {
-  width:70px;
-  height:70px;
-}
 h1 {
   font-size:50px;
 }
@@ -32,7 +28,7 @@ main p {
   color:Cyan;
   background:hotpink;
 }
-main img {
+img {
   width:400px;
   height:300px;
 }
