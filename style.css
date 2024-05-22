@@ -26,8 +26,8 @@ h2 {
 }
 main p {
   font-size:30px;
-  border:4px dotted Cyan;
-  border-radius:10px;
+  border:5px dotted Cyan;
+  border-radius:20px;
   padding:10px;
   color:Cyan;
   background:hotpink;
