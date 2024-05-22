@@ -1,0 +1,43 @@
+body {
+  font-family:sans-serif;
+  text-align:center;
+}
+header {
+  background:Cyan;
+}
+a {
+  color:hotpink;
+  text-decoration:none;
+  border:1px solid black;
+  border-radius:10px;
+  margin:5px;
+  padding:10px;
+}
+header img {
+  width:70px;
+  height:70px;
+}
+h1 {
+  font-size:50px;
+}
+h2 {
+  font-size:40px;
+}
+p {
+  font-size:30px;
+  border:4px dotted Cyan;
+  border-radius:10px;
+  padding:10px;
+  color:Cyan;
+  background:hotpink;
+}
+main img {
+  width:400px;
+  height:300px;
+}
+footer {
+  background:Cyan
+}
+footer p {
+  font-size:24px;
+}
